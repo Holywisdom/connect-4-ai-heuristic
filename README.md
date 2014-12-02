@@ -1,2 +1,2 @@
-connect-4-ai-heuristic
+connect-4-ai-heuristic in c++
 ======================
